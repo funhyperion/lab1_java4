@@ -12,3 +12,4 @@ public class Cat extends AbstractAnimal{
         return weight*3;
     }
 }
+

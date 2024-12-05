@@ -6,3 +6,4 @@ class CatFactory extends AnimalFactory {
         return new Cat();
     }
 }
+

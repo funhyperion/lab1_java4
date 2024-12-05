@@ -10,7 +10,6 @@ public abstract class AbstractAnimal {
     protected AbstractAnimal(String name) {
         nameOfAnimal = name;
     }
-
     abstract public double animalWeight();
 
     public void printArea(){

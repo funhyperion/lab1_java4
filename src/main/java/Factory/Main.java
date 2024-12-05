@@ -12,3 +12,4 @@ public class Main {
         cat.makeSound(); // Виведе: Meow!
     }
 }
+

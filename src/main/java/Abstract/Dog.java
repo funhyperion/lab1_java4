@@ -14,3 +14,4 @@ public class Dog extends AbstractAnimal  {
         return size * ears;
     }
 }
+
